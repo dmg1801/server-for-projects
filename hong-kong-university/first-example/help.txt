@@ -1,0 +1,3 @@
+help suggestions:
+
+1 - watch always for that the folders match with corresponding files (index.js, package.json)
